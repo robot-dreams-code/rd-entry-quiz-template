@@ -1,0 +1,8 @@
+skill,title,url,source,format,time,lang,order,active
+computer,Pro Git: основи Git,https://git-scm.com/book/uk/v2/Вступ-Основи-Git,git-scm.com,"книга, розділ",15 хв,UA,1,TRUE
+computer,Pro Git: запис змін до репозиторія,https://git-scm.com/book/uk/v2/Основи-Git-Запис-змін-до-репозиторія,git-scm.com,"книга, розділ",30 хв,UA,2,TRUE
+python,Підручник з Python: неформальний вступ,https://docs.python.org/uk/3/tutorial/introduction.html,Python.org,документація,1 год,UA,3,TRUE
+python,"Підручник з Python: умови, цикли й функції",https://docs.python.org/uk/3/tutorial/controlflow.html,Python.org,документація,1–2 год,UA,4,TRUE
+data,"Підручник з Python: читання й запис файлів, JSON",https://docs.python.org/uk/3/tutorial/inputoutput.html,Python.org,документація,40 хв,UA,5,TRUE
+networks,OSI-модель: як спуститись в кролячу нору й випірнути звідти,https://dou.ua/forums/topic/53318/,DOU,стаття,20 хв,UA,6,TRUE
+drones,MAVLink Basics,https://ardupilot.org/dev/docs/mavlink-basics.html,ArduPilot,документація,20 хв,EN,7,TRUE

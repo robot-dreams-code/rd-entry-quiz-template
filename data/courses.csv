@@ -1,0 +1,4 @@
+title,description,url,skills,order
+Python для військових технологій,"Python для MilTech з нуля: від синтаксису до телеметрії, наземних станцій і детекції.",https://robotdreams.cc/uk/course/3051-python-dlya-viyskovih-tehnologiy,"background, python",1
+Електроніка для розробників,"Для розробників, які хочуть працювати на стику software і hardware: схеми, вимірювання, MCU та IoT.",https://robotdreams.cc/uk/course/2720-electronics-for-developers,"signals, background",2
+Data Scientist,"Повний стек дата-саєнтиста: Python, статистика, машинне навчання.",https://robotdreams.cc/uk/course/682-data-scientist,ml,3

@@ -1,0 +1,14 @@
+skill,title,url,source,format,time,lang,order,active
+physics,Технологія звуку: як мікрофони можуть замінити радар для дронів,https://robotdreams.cc/uk/blog/997-chi-mozhut-mikrofoni-zaminiti-radar-tehnologiya-yaka-dozvolyaye-znahoditi-droni-za-zvukom,robot_dreams,стаття,8 хв,UA,1,TRUE
+math,Графіки в математиці та статистиці,https://robotdreams.cc/uk/blog/676-graphs-in-mathematics-and-statistics,robot_dreams,стаття,7 хв,UA,2,TRUE
+math,Як опанувати математику з нуля: 13 онлайн-ресурсів,https://robotdreams.cc/uk/blog/547-yak-opanuvaty-matematyku-z-nulya,robot_dreams,добірка,6 хв,UA,3,TRUE
+python,Підручник з Python українською (офіційна документація),https://docs.python.org/uk/3/tutorial/index.html,Python.org,документація,кілька вечорів,UA,4,TRUE
+python,Як працювати з графікою на Python,https://robotdreams.cc/uk/blog/224-kak-rabotat-s-grafikoy-na-python,robot_dreams,стаття,5 хв,UA,5,TRUE
+python,NumPy: the absolute basics for beginners,https://numpy.org/doc/stable/user/absolute_beginners.html,NumPy,документація,1 год,EN,6,TRUE
+python,Matplotlib: Quick start guide,https://matplotlib.org/stable/users/explain/quick_start.html,Matplotlib,документація,30 хв,EN,7,TRUE
+signals,"Як працює IoT: сенсори, протоколи, обробка даних",https://robotdreams.cc/uk/blog/772-yak-pracyuye-iot-zseredyny-sensory-protokoly-obrobka-danyh,robot_dreams,стаття,8 хв,UA,8,TRUE
+signals,"STM32 з нуля без HAL, частина 19: ADC — як сигнал стає цифрами",https://dou.ua/forums/topic/61277/,DOU,стаття,20 хв (перша половина),UA,9,TRUE
+ml,Вступ до Machine Learning: знайомство з моделями,https://dou.ua/lenta/articles/introduction-machine-learning-1/,DOU,стаття,12 хв,UA,10,TRUE
+ml,Вступ до Machine Learning: як правильно поставити завдання моделі,https://dou.ua/lenta/articles/master-of-machines-1/,DOU,стаття,10 хв,UA,11,TRUE
+ml,Ера Edge AI: які навички потрібні ML-інженерам,https://robotdreams.cc/uk/blog/960-chomu-tehnokompaniji-perehodyat-na-edge-ai-ta-yaki-navichki-stayut-obov-yazkovimi-dlya-ml-inzheneriv-u-2026,robot_dreams,стаття,6 хв,UA,12,TRUE
+ml,Simple audio recognition: класифікація звуку на спектрограмах,https://www.tensorflow.org/tutorials/audio/simple_audio,TensorFlow,документація,1 год,EN,13,TRUE
